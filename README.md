@@ -1,2 +1,2 @@
-# css_slider
-Slider using css
+# CSS Slider
+Slider using only css
